@@ -1,0 +1,10 @@
+pip~=22.3.1
+wheel~=0.38.4
+setuptools~=65.5.1
+numpy
+pandas
+scikit-learn
+pymongo
+certifi
+python-dotenv
+-e .
